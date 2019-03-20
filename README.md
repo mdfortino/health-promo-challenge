@@ -19,3 +19,6 @@
 * Need to build out the rest of the sections, including JS and cart animation
 * Fix font size and margins 
 
+##
+Link to deployed version: http://health-promo.surge.sh/
+
