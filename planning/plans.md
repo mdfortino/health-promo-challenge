@@ -2,7 +2,7 @@
 * replicate mock-up using HTML and CSS 
 ## Silver
 * replicate mock-up using HTML, CSS, JS and framework like Foundations 
-##Gold/Bonus
+## Gold/Bonus
 * Try out some sort of CSS3 animation on the 'ADD TO CART' button
-##Double Bonus
+## Double Bonus
 * Add in creative functionality 
