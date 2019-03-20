@@ -1,1 +1,73 @@
- 
+.headline {
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    padding: 3rem 0;
+    padding-top: 3rem;
+    padding-right: 0px;
+    padding-bottom: 3rem;
+    padding-left: 0px;
+    background: url(https://d13p2xj50zkyqm.cloudfront.net/promos/health/GLN/masterswitch_chocolateRL_ihtml_0317/HeadlineImage_1.jpg);
+    background-image: url(https://d13p2xj50zkyqm.cloudfront.net/promos/health/GLN/masterswitch_chocolateRL_ihtml_0317/HeadlineImage_1.jpg);
+    background-position-x: center;
+    background-position-y: center;
+    background-size: cover;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 1.5rem;
+  }
+
+  .headline__eyebrow, .headline__subhead {
+    width: 85%;
+    margin: 0 auto;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.headline__title {
+    font-family: 'rift', sans-serif;
+    font-size: 5rem;
+    font-weight: bold;
+    margin: 0 auto;
+    line-height: 1;
+    color: #ff2247;
+    text-align: center;
+    background: linear-gradient(to right, rgba(255,255,255,0), white 20%, white 80%, white 20%, rgba(255,255,255,0) 100%);
+    margin: 1rem 0;
+}
+p {
+    font-size: 1rem;
+    line-height: 1.35em;
+    margin: .9375em 1.25em;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.chocoimg-caption {
+    text-align: center;
+    font-weight: bold;
+    color: #3d1c0f;
+}
+
+
+ul.checkmark, ul.ulcheckmark {
+    list-style-image: url(https://d13p2xj50zkyqm.cloudfront.net/scripts/assets/checkmark.png);
+}
+
+li {
+    line-height: 1.35em;
+    margin-top: 1.25em;
+}

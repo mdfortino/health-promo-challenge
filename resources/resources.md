@@ -10,3 +10,5 @@ Add list of resources used here.
 * https://getbootstrap.com/docs/3.4/css/
 
 * https://foundation.zurb.com/building-blocks/
+
+* https://getbootstrap.com/docs/4.1/layout/grid/
