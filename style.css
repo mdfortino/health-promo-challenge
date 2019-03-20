@@ -33,9 +33,16 @@
     font-size: 1.5rem;
     font-weight: bold;
 }
+h1 {
+    display: block; 
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
 
 .headline__title {
-    font-family: 'rift', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 5rem;
     font-weight: bold;
     margin: 0 auto;
@@ -44,6 +51,10 @@
     text-align: center;
     background: linear-gradient(to right, rgba(255,255,255,0), white 20%, white 80%, white 20%, rgba(255,255,255,0) 100%);
     margin: 1rem 0;
+}
+.container-fluid {
+    background: linear-gradient( #c39b7c, transparent, #c49a6c); 
+    margin: 1rem 0; 
 }
 p {
     font-size: 1rem;
@@ -70,4 +81,28 @@ ul.checkmark, ul.ulcheckmark {
 li {
     line-height: 1.35em;
     margin-top: 1.25em;
+}
+.s2 {
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    padding-left: 8rem; 
+    background-image: url(https://d13p2xj50zkyqm.cloudfront.net/promos_3/health/GLN/masterswitch_chocolateRL_ihtml_0317/ParallaxOne_5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: calc(60% - 100px);
+}
+.parallax {
+    background-image: url(https://d13p2xj50zkyqm.cloudfront.net/promos_3/health/GLN/masterswitch_chocolateRL_ihtml_0317/ParallaxOne_5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    width: 100%;
+    color: white;
+    padding: 3rem auto;
+}
+.sideBanner__col--text p {
+    text-align: left;
+    font-size: 1.4rem;
 }
