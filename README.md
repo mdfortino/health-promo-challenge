@@ -1,8 +1,8 @@
 # health-promo-challenge
 
 ## Part 1: Responsive Page Build: 
-	
-The goals of this exercise are:
+
+## The goals of this exercise are:
 
 * Replicate the mock up provided 
 * Make it responsive / mobile friendly
@@ -11,3 +11,11 @@ The goals of this exercise are:
 
 * Bonus: Try out some sort of CSS3 animation on the ‘ADD TO CART’ button
 * Double Bonus: If you have the time please feel free to add in any creative functionality. 
+
+## Unresolved Issues:
+* There are errors with responsiveness despite starting with mobile first design(worked previously but as it stands is not fully responsive). I need to go back and properly fix Bootstrap grid dimensions and css.
+* Semantic HTML - still working to fix errors that were flagged from HTML validator
+* CSS Validation - still working to fix errors like improper usage of "rem" and "em"
+* Need to build out the rest of the sections, including JS and cart animation
+* Fix font size and margins 
+
