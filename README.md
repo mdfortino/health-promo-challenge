@@ -22,3 +22,7 @@
 ##
 Link to deployed version: http://health-promo.surge.sh/
 
+## Part 2: Javascript Debug Test 
+https://d13p2xj50zkyqm.cloudfront.net/promos_9/test/jsDebug_v2.html
+
+The link above has a few javascript errors in it. Please go through and see if you can identify the errors. 
